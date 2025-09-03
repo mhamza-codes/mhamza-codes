@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Muhammad Hamza
 
-*🎓 **Software Engineering Student | University of Karachi (Graduating 2026)***  
-*📊 **Focused on Data Engineering | Building Data Pipelines, ETL, and Big Data Solutions***  
-*💡 **Passionate about transforming raw data into actionable insights through scalable architectures.***
+*📊 **Data Engineer | Building Data Pipelines, ETL, and Big Data Solutions***  
+*💡 **Passionate about transforming raw data into actionable insights through scalable architectures.***  
+*🎓 **Software Engineering Student | University of Karachi (Graduating 2026)***
 
 ---
 
